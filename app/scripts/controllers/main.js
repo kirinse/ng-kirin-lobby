@@ -8,7 +8,11 @@
  * Controller of the kirinLobbyApp
  */
 angular.module('kirinLobbyApp')
-  .controller('MainCtrl', function ($scope, $modal, $log) {
+  .controller('MainCtrl', function ($scope, $modal, $log, cfpLoadingBar,$timeout) {
+    cfpLoadingBar.start();
+    $timeout(function() {
+      cfpLoadingBar.complete();
+    }, 1250);
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
