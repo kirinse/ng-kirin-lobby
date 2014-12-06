@@ -1,0 +1,200 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"i18n"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/darkmoon/UED/angular/kirin-lobby"
+	],
+	"file_history":
+	[
+		"/Users/darkmoon/Desktop/passport_2014-10-26.sql",
+		"/Users/darkmoon/Downloads/rest-lobby/lobby/src/main/resources/com/lobby/message/messages_en.properties",
+		"/Users/darkmoon/Downloads/rest-lobby/lobby/src/main/resources/com/lobby/message/messages_zh_CN.properties",
+		"/Users/darkmoon/Downloads/sql.sql",
+		"/Users/darkmoon/Downloads/Ping列表BT-Detail.htm",
+		"/Users/darkmoon/Dropbox/DEV/jsonBanks-icbc.txt",
+		"/Users/darkmoon/Downloads/lobby/target/classes/com/lobby/message/messages_en.properties",
+		"/Users/darkmoon/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/darkmoon/UED/javascript/lobby-ng/bower_components/jquery/dist/jquery.js",
+		"/Users/darkmoon/UED/javascript/lobby-ng/app/styles/main.scss",
+		"/Users/darkmoon/UED/javascript/lobby-ng/app/styles/main.css",
+		"/Users/darkmoon/UED/javascript/lobby-ng/bower_components/angular-loading-bar/build/loading-bar.js",
+		"/Users/darkmoon/UED/javascript/lobby-ng/bower_components/keycloak/dist/keycloak.js",
+		"/Users/darkmoon/UED/javascript/lobby-ng/Gruntfile.js",
+		"/Users/darkmoon/UED/javascript/lobby-ng/lobby-ng.sublime-project",
+		"/Users/darkmoon/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/darkmoon/UED/javascript/lobby-ng/bower_components/bootstrap/js/affix.js",
+		"/Users/darkmoon/UED/javascript/lobby-ng/bower.json",
+		"/Users/darkmoon/UED/javascript/kirin-ng/bower.json",
+		"/Users/darkmoon/UED/javascript/durandal/README.md",
+		"/Users/darkmoon/UED/javascript/durandal/bower.json",
+		"/Users/darkmoon/UED/javascript/durandal/Gruntfile.js",
+		"/Users/darkmoon/UED/javascript/durandal/bower_components/durandal/bower.json",
+		"/Users/darkmoon/UED/javascript/durandal/bower_components/bootstrap/bower.json",
+		"/Users/darkmoon/UED/javascript/durandal/package.json",
+		"/Users/darkmoon/UED/javascript/durandal/bower_components/requirejs/bower.json",
+		"/Users/darkmoon/UED/javascript/durandal/bower_components/requirejs/require.js",
+		"/Users/darkmoon/UED/javascript/durandal/bower_components/requirejs/README.md",
+		"/Users/darkmoon/UED/javascript/durandal/app/viewmodels/shell.js",
+		"/Users/darkmoon/UED/javascript/durandal/app/viewmodels/home.js",
+		"/Users/darkmoon/Library/Application Support/Sublime Text 3/Packages/Default/Default ().sublime-keymap",
+		"/Users/darkmoon/Downloads/pagerjs-1.0.1/dist/pager.css",
+		"/Users/darkmoon/UED/javascript/countdown/src/countdown.css",
+		"/Users/darkmoon/SERVER/eap61/standalone/configuration/standalone.xml",
+		"/Users/darkmoon/jboss-bpms-installation",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rimraf"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "kirin-lobby.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
